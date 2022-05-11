@@ -1,3 +1,3 @@
-This is the first of MANY programs that will be written by Ozkar Alvarez
+# Rock Paper Scissors
 
-This program runs a simple rock paper scissors game for 5 rounds before displaying the winner or loser.
+<p>This project is my first Javascript application which was an exercise to practice DOM manipulation, event listeners, and logical operations.</p>
